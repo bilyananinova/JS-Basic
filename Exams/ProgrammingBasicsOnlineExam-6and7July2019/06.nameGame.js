@@ -1,0 +1,5 @@
+function nameGame (arg) {
+
+}
+
+nameGame ()
